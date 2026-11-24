@@ -282,7 +282,7 @@ export default function HomePage() {
           <div className="split-photo">
             <Image
               src="/images/counselling-space.jpg"
-              alt="A comfortable chair beside tall, softly curtained windows"
+              alt="A soft cream chaise and reading lamp beside tall, sheer-curtained windows"
               fill
               sizes="(max-width: 900px) 100vw, 600px"
             />
